@@ -121,7 +121,7 @@ body{
 .social-section{
     margin-top: 15px;
     overflow: hidden;
-    box-shadow: 5px 12px 3px #ccc;
+    box-shadow: -1px 4px 1px #ccc;
 }
 .social-section h4{
     font-weight: bold;
@@ -174,9 +174,9 @@ body{
 }
 .tabs-section .tabs-switch li{
     height: 90px;
-    width: 90px;
+    width: 100px;
     line-height: 90px;
-    font-size: 20px;
+    font-size: 13px;
     background-color: #333;
     border-bottom: 1px solid #fff;
     color: #fff;
@@ -263,12 +263,12 @@ width: 82%;
     font-size: 14px;
 }
 .sublist .right-info .sub-info i{
-    width: 40px;
-    height: 40px;
-    font-size: 20px;
+    width: 30px;
+    height: 30px;
+    font-size: 14px;
     text-align: center;
-    line-height: 40px;
-    margin-top: 30px;
+    line-height: 30px;
+    margin-top: 16px;
     margin-right: 20px;
     color: #f26522;
     border-radius: 50%;
